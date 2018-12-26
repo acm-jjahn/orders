@@ -1,3 +1,6 @@
+# Visual Studio
+.vs/
+
 # Credentials
 credentials.yml
 jmeter.log
